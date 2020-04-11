@@ -5,7 +5,7 @@
 * Bacurau - https://kinonow.com/bacurau-music-box-theatre
 * The Whistlers - https://www.magnoliapictures.com/musicbox-thewhistlers
 
-## Recently seen
+## 👀
 ### 2020
 * 1917 ⭐⭐⭐⭐ (intense, continuous scene)
 * Star Wars: The Last Jedi ⭐⭐⭐ (saw with Jack and Caelin, nice closing to the series)
