@@ -3,4 +3,4 @@
 ## lists
 * [movies](see.md)
 * [travel](visit.md)
-* [readling](read.md)
+* [reading](read.md)
