@@ -1,4 +1,4 @@
-# Movies
+# Movie list
 
 ## To see 👀
 * Sorry We Missed You - https://kinonow.com/sorry-we-missed-you-music-box-theatre
