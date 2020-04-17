@@ -7,6 +7,9 @@
 * Bacurau - https://kinonow.com/bacurau-music-box-theatre
 * The Whistlers - https://www.magnoliapictures.com/musicbox-thewhistlers
 
+## Maybe
+* Emma - https://www.focusfeatures.com/emma
+
 ## Recently seen
 ### 2020
 * 1917 ⭐⭐⭐⭐ (intense, continuous scene)
