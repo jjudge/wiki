@@ -2,20 +2,12 @@
 
 The objective is to read a lot of books!
 
+[In-progress](#in-progress) | [Hold](#hold) | [Next up](#next-up) | [Read](#read)
+
 ## In-progress
 * The Score Takes Care of Itself (Jamison, Walsh)
 
-## Read
-* Never Split The Difference (Voss) - 2019
-* Trillion Dollar Coach (Schmidt, Rosenburg, Eagle) - 2019
-* Bringing up Bebe (Druckerman) - 2018
-* It Doesn't Have to Be Crazy at Work (Fried, Heinemeier Hansson) - Dec 2018
-* Shoe Dog (Knight) - Nov 2018
-* The San Francisco Fallacy (Siegel) - Feb 2018
-* Five Dysfunctions of a Team (Patrick Lencioni) - Feb 2018
-* The Everything Store (Brad Stone) - Jan 2018
-
-## Hold/paused
+## Hold
 * The Master Algorithm (Domingos)
 * High Growth Handbook (Gil)
 
@@ -40,3 +32,13 @@ The objective is to read a lot of books!
 * [Engine of Impact](http://www.engineofimpact.org/) (William Meehan, Kim Starkey Jonker)
 * Happiness Project (Gretchen Rubin)
 * https://abookapart.com/products/conversational-design
+
+## Read
+* Never Split The Difference (Voss) - 2019
+* Trillion Dollar Coach (Schmidt, Rosenburg, Eagle) - 2019
+* Bringing up Bebe (Druckerman) - 2018
+* It Doesn't Have to Be Crazy at Work (Fried, Heinemeier Hansson) - Dec 2018
+* Shoe Dog (Knight) - Nov 2018
+* The San Francisco Fallacy (Siegel) - Feb 2018
+* Five Dysfunctions of a Team (Patrick Lencioni) - Feb 2018
+* The Everything Store (Brad Stone) - Jan 2018
