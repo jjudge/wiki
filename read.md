@@ -4,7 +4,6 @@ The objective is to read a lot of books!
 
 ## In-progress
 * The Score Takes Care of Itself (Jamison, Walsh)
-* The Model Thinker (Page)
 
 ## Read
 * Never Split The Difference (Voss) - 2019
@@ -21,6 +20,8 @@ The objective is to read a lot of books!
 * High Growth Handbook (Gil)
 
 ## Next up
+* [The Great CEO Within](https://www.amazon.com/Great-CEO-Within-Tactical-Building-ebook/dp/B07ZLGQZYC)
+* The Model Thinker (Page)
 * Dad is Fat (Gaffigan)
 * [The Snowball](https://www.amazon.com/gp/product/0553384619/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=farnamstreet-20&creative=9325&linkCode=as2&creativeASIN=0553384619&linkId=d0f300e25b3b721de23bd52156525ce7)
 * [Where Good Ideas Come From](https://www.amazon.com/gp/product/1594485380/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=farnamstreet-20&creative=9325&linkCode=as2&creativeASIN=1594485380&linkId=ff8ea41053ce6e1f090e90c48587227b) (Johnson)
