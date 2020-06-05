@@ -6,6 +6,7 @@
 * The Whistlers - https://www.magnoliapictures.com/musicbox-thewhistlers
 * Pain and Glory - https://www.imdb.com/title/tt8291806/
 * Capital in the Twenty-First Century - https://kinonow.com/capital-music-box-theatre
+* I Am Not Your Negro - https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre
 
 ## Maybe
 * Emma - https://www.focusfeatures.com/emma
