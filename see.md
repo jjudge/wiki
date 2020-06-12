@@ -19,5 +19,6 @@
 * [1917](https://www.imdb.com/title/tt8579674/) - intense, continuous scene
 * [Star Wars: The Last Jedi](https://www.imdb.com/title/tt2527336/) - saw with Jack and Caelin, a nice closing to the series (hopefully)
 * [Little Women](https://www.imdb.com/title/tt3281548/) - best film of the year
-### 2019
+
+2019:
 * [Knives Out](https://www.imdb.com/title/tt8946378/) - super fun!
