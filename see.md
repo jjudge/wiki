@@ -6,7 +6,6 @@
 * The Whistlers - https://www.magnoliapictures.com/musicbox-thewhistlers
 * Pain and Glory - https://www.imdb.com/title/tt8291806/
 * Capital in the Twenty-First Century - https://kinonow.com/capital-music-box-theatre
-* I Am Not Your Negro - https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre
 * Whose Streets? - https://musicboxtheatre.com/films/whose-streets
 
 ## Maybe
@@ -16,6 +15,7 @@
 
 ## Recently seen
 ### 2020
+* [I Am Not Your Negro](https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre)
 * [Saint Frances](https://www.imdb.com/title/tt9016016/) - heartwhelming film shot in Evanston (felt nice to watch this, especially in the current moment)
 * [Sorry We Missed You](https://www.imdb.com/title/tt8359816/) - brutally honest and moving
 * [1917](https://www.imdb.com/title/tt8579674/) - intense, continuous scene
