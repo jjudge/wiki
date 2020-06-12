@@ -12,7 +12,7 @@
 * Hail Satan? - https://watch.eventive.org/hailsatanmovie/play/5ec2d2b9a51cb5002f3d7745
 
 ## Seen
-### 2020
+2020:
 * [I Am Not Your Negro](https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre)
 * [Saint Frances](https://www.imdb.com/title/tt9016016/) - heartwhelming film shot in Evanston (felt nice to watch this, especially in the current moment)
 * [Sorry We Missed You](https://www.imdb.com/title/tt8359816/) - brutally honest and moving
