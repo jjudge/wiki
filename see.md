@@ -13,7 +13,8 @@
 
 ## Seen
 2020:
-* [I Am Not Your Negro](https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre)
+* [Lucky Grandma](https://gooddeedentertainment.com/luckygrandma/) - a lot of fun
+* [I Am Not Your Negro](https://magnoliapictures.vhx.tv/products/i-am-not-your-negro-music-box-theatre) - tough to see how little progress we've made
 * [Saint Frances](https://www.imdb.com/title/tt9016016/) - heartwhelming film shot in Evanston (felt nice to watch this, especially in the current moment)
 * [Sorry We Missed You](https://www.imdb.com/title/tt8359816/) - brutally honest and moving
 * [1917](https://www.imdb.com/title/tt8579674/) - intense, continuous scene
