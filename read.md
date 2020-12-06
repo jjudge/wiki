@@ -6,6 +6,8 @@ The objective is to read a lot of books!
 
 ## In-progress
 * The Score Takes Care of Itself (Jamison, Walsh)
+* The Room Where It Happened: A White House Memoir (Bolton)
+* The Geometry of Wealth: How to shape a life of money and meaning (Portnoy)
 
 ## Hold
 * The Master Algorithm (Domingos)
