@@ -35,6 +35,7 @@ The objective is to read a lot of books!
 
 ## Read
 * The Algebra of Happiness (Galloway) - 2020
+* The Incomplete Book of Running (Sagal) - 2020
 * Never Split The Difference (Voss) - 2019
 * Trillion Dollar Coach (Schmidt, Rosenburg, Eagle) - 2019
 * Bringing up Bebe (Druckerman) - 2018
